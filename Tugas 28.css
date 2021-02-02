@@ -1,0 +1,14 @@
+*{
+  background-color: #333333;
+}
+
+.form-groub {
+  width: 100%;
+  max-width: 430px;
+  margin: auto;
+  color: white;
+}
+
+#cekbox{
+  font-size: 12px;
+}
